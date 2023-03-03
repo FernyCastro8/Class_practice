@@ -1,0 +1,19 @@
+*{
+
+    margin:0;
+    padding:0;
+}
+
+body {
+
+    background-color: white;
+}
+
+.box {
+
+    background-color: lightblue;
+    padding: 25px 45px;
+    margin: 50;
+    
+}
+
